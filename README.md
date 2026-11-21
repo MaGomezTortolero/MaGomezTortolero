@@ -1,23 +1,25 @@
 # Marianni Gómez
 
-**Full-stack software developer and electronics engineer** · Bogotá, Colombia  
-Open to remote software development opportunities.
+**Full-Stack Software Developer · Angular, Node.js, PostgreSQL**  
+Electronics engineer based in Bogotá, Colombia · Open to remote roles
+
+I build web interfaces and REST APIs. At Solservice, I worked remotely with a U.S. team from September 2024 to September 2026, contributing to video calls, session reporting, recording management, and web projects.
+
+## Selected work
+
+| Project | My contribution | Technologies |
+| --- | --- | --- |
+| Video call waiting room | Built views for patients and providers and filtered the lists by room group and permissions. | Angular, TypeScript |
+| Session history and reporting | Implemented endpoints to record video call sessions and report usage by provider and date range. | Node.js, Express, PostgreSQL |
+| Recording API | Built endpoints to create, finalize, and retrieve recording records. Worked on database migrations, indexes, and cloud storage paths. | Node.js, Express, PostgreSQL, Google Cloud Storage |
+| Webflow donation interface | Added donation amount selection and styles. [View my commit in Nogales Develop](https://github.com/ejfdelgado/nogales-dev/commit/629120d746c5bd74a304bbf6091be96d40b1c8f2). | Webflow, JavaScript, CSS |
 
 ## Technical skills
 
-- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS
+- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, Webflow
 - **Backend and data:** Node.js, Express, REST APIs, PostgreSQL, SQL
-- **Tools and cloud:** Git, GitHub, Google Cloud Storage, Webflow
-
-## Selected work at Solservice
-
-**Software Developer · U.S. team, remote · September 2024 – September 2026**
-
-- **Video call waiting room.** Built Angular components and filters to display patients and providers based on permissions and room groups.
-- **Video call history and reporting.** Implemented REST endpoints and PostgreSQL functions for session history and usage reports by provider and time period.
-- **Recording API.** Built endpoints to create, finalize, and retrieve recording records. Worked on PostgreSQL migrations, indexes, and Google Cloud Storage paths.
-- **Webflow.** Contributed updates to donations and styles in [Nogales Develop](https://github.com/ejfdelgado/nogales-dev), a public team repository.
+- **Cloud and version control:** Google Cloud Storage, Git, GitHub
 
 ## En español
 
-Soy ingeniera electrónica y desarrolladora full stack. Trabajé de forma remota con el equipo de Solservice en Estados Unidos durante dos años. Mi experiencia incluye interfaces en Angular, APIs con Node.js y Express, y bases de datos PostgreSQL. Estoy disponible para oportunidades remotas de desarrollo de software.
+Soy ingeniera electrónica y desarrolladora full stack en Bogotá. En Solservice desarrollé componentes de videollamadas en Angular, APIs de grabaciones en Node.js y consultas de estadísticas en PostgreSQL. En la tabla de arriba puedes ver mis aportes y abrir un ejemplo público de mi trabajo en Webflow. Estoy disponible para oportunidades remotas de desarrollo de software.
